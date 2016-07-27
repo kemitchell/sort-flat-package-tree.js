@@ -1,0 +1,14 @@
+{
+  "name": "sort-flat-package-tree",
+  "version": "0.0.0",
+  "description": "sort dependency and link records in flat package trees",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/sort-flat-package-tree.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "compare-flat-package-tree-records": "^1.0.0"
+  }
+}
